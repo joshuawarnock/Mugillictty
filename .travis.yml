@@ -4,14 +4,5 @@ rvm:
  - "1.9.2"
  - "1.9.3"
  - rbx
- language: node_js
-node_js:
-  - "0.12"
-  - "0.11"
-  - "0.10"
-  - "0.8"
-  - "0.6"
-  - "iojs"
-  - "iojs-v1.0.4"
 # uncomment this line if your project needs to run something other than `rake`:
 # script: bundle exec rspec spec
